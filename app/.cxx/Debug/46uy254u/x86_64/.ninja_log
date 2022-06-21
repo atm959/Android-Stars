@@ -1,0 +1,5 @@
+# ninja log v5
+0	813	1655766392	CMakeFiles/myapplication.dir/native-lib.cpp.o	269dc01e8f1eb19
+815	883	1655766392	/Users/user/AndroidStudioProjects/MyApplication/app/build/intermediates/cxx/Debug/46uy254u/obj/x86_64/libmyapplication.so	f309b788e19baf22
+1	821	1655766921	CMakeFiles/myapplication.dir/native-lib.cpp.o	269dc01e8f1eb19
+821	891	1655766921	/Users/user/AndroidStudioProjects/MyApplication/app/build/intermediates/cxx/Debug/46uy254u/obj/x86_64/libmyapplication.so	f309b788e19baf22
